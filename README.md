@@ -1,8 +1,2 @@
 # Kaggle
 Kaggle Competitions
-   
-    
-    
-    
-     
-    
